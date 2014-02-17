@@ -1,0 +1,10 @@
+h1 {
+	font-size: 50px;
+	font-family: 'Lucida Grande', 'Lucida Sans', 'Arial', 'Verdana' sans-serif;
+	text-align: center;
+	width: 100%;
+	top: 50%;
+	position: absolute;
+	margin-top: -25px;
+	text-transform: uppercase;
+}
